@@ -1,0 +1,1 @@
+{"uuid":"a45e7d88-f661-432e-b102-1e665693c16d","name":"Gradle test","children":["9a731f3d-b42c-41b6-9b94-a521cef0bb9c"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1626512783193,"stop":1626512795337}],"afters":[],"links":[],"start":1626512783172,"stop":1626512904057}

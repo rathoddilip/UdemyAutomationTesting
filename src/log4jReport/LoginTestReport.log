@@ -1,0 +1,10 @@
+[INFO ] 2021-07-17 23:45:16.844 [Test worker] LogClass - ******************************* Starting test cases ****************************************
+[INFO ] 2021-07-17 23:45:17.595 [Test worker] LogClass - launching the Chrome browser
+[INFO ] 2021-07-17 23:45:20.331 [Test worker] LogClass - Internet is connected
+[INFO ] 2021-07-17 23:45:20.332 [Test worker] LogClass - Navigate to url udemy: https://www.udemy.com/ 
+[INFO ] 2021-07-17 23:45:29.325 [Test worker] LogClass - Clicking on login link button 
+[INFO ] 2021-07-17 23:45:37.110 [Test worker] LogClass - Entering email id
+[INFO ] 2021-07-17 23:45:37.947 [Test worker] LogClass - Entering password
+[INFO ] 2021-07-17 23:45:38.090 [Test worker] LogClass - Clicking on login button
+[INFO ] 2021-07-17 23:45:43.000 [Test worker] LogClass - LoginToUdemyApplication :Taking success screenshot by listener method
+[INFO ] 2021-07-17 23:45:43.341 [Test worker] LogClass - ******************************* End Test Cases ****************************************

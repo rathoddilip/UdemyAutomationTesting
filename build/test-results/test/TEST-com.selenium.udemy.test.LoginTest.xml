@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.udemy.test.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T18:15:29" hostname="arjun-HP-Laptop-15-bs0xx" time="13.475">
+  <properties/>
+  <testcase name="LoginToUdemyApplication" classname="com.selenium.udemy.test.LoginTest" time="13.475"/>
+  <system-out><![CDATA[[INFO ] 2021-07-17 23:45:29.325 [Test worker] LogClass - Clicking on login link button 
+[INFO ] 2021-07-17 23:45:37.110 [Test worker] LogClass - Entering email id
+[INFO ] 2021-07-17 23:45:37.947 [Test worker] LogClass - Entering password
+[INFO ] 2021-07-17 23:45:38.090 [Test worker] LogClass - Clicking on login button
+SUCCESS Test
+[INFO ] 2021-07-17 23:45:43.000 [Test worker] LogClass - LoginToUdemyApplication :Taking success screenshot by listener method
+[INFO ] 2021-07-17 23:45:43.341 [Test worker] LogClass - ******************************* End Test Cases ****************************************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
